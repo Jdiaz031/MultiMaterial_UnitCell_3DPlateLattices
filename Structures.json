@@ -1,0 +1,17 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "cube_size": "20",
+            "generate": "FCC",
+            "thickness_of_plate": "2"
+        },
+        "Structures": {
+            "cube_size": "20",
+            "generate": "FCC",
+            "thickness_of_plate": "2"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
