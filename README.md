@@ -37,6 +37,7 @@ Alternatively, the 'Structures.json' file can be accessed via the Customizer win
 The 3DPLS folder contains an scad scriopt containing the plate lattice structures available in the Structures.scad file in a format that is accesible through an Openscad library utilizing the same parameters of the side length of a cubic volume and the thickness of the plates. The library can be installed by moving the 3DPLS folder into the libraries directory that is present within the OpenSCAD installation.
 
 To call the library, the following line must be included:
- * include<3DPLS/3DPLS.scad>
-
+```
+include<3DPLS/3DPLS.scad>
+```
 For additional help regarding the installation of the library, feel free to drop your concerns in "Issues" section of the GitHub repository. In addition, the [OpenSCAD User Manual page on libraries](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries) can help. 
