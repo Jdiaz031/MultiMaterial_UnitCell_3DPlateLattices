@@ -31,3 +31,12 @@ The top of the "Structures.scad" file contains three modifiable variables: cube_
 * generate: the type of plate lattice structure to generate
 
 Alternatively, the 'Structures.json' file can be accessed via the Customizer window if both 'Structures.json' and 'Structures.scad' are in the same directory. The default customizer generation of 'Structures.scad' may generate the varables, however, there have been instances where only the structures variable is generated.
+
+
+# Utilizing the 3DPLS Library
+The 3DPLS folder contains an scad scriopt containing the plate lattice structures available in the Structures.scad file in a format that is accesible through an Openscad library utilizing the same parameters of the side length of a cubic volume and the thickness of the plates. The library can be installed by moving the 3DPLS folder into the libraries directory that is present within the OpenSCAD installation.
+
+To call the library, the following line must be included:
+ * include<3DPLS/3DPLS.scad>
+
+For additional help regarding the installation of the library, feel free to drop your concerns in "Issues" section of the GitHub repository. In addition, the [OpenSCAD User Manual page on libraries](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries) can help. 
