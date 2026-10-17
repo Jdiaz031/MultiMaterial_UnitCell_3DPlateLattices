@@ -41,6 +41,8 @@ To call the library, the following line must be included:
 include<3DPLS/3DPLS.scad>
 ```
 
+For additional help regarding the installation of the library, feel free to drop your concerns in "Issues" section of the GitHub repository. In addition, the [OpenSCAD User Manual page on libraries](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries) can help. 
+
 # Citation
 ```
 @inproceedings{hussain2024multi,
@@ -52,6 +54,3 @@ include<3DPLS/3DPLS.scad>
   organization={Institute of Industrial and Systems Engineers (IISE)}
 }
 ```
-
-
-For additional help regarding the installation of the library, feel free to drop your concerns in "Issues" section of the GitHub repository. In addition, the [OpenSCAD User Manual page on libraries](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries) can help. 
