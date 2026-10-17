@@ -41,4 +41,17 @@ To call the library, the following line must be included:
 include<3DPLS/3DPLS.scad>
 ```
 
+# Citation
+```
+@inproceedings{hussain2024multi,
+  title={Multi-Material 3D Plate Lattice Structures Using Fused Filament Fabrication Technique},
+  author={Hussain, Huzaifa and Diaz, Jesus and Premadasa, Roshira and Zhang, Qianyun and Mahajan, Chaitanya},
+  booktitle={IISE Annual Conference. Proceedings},
+  pages={1--6},
+  year={2024},
+  organization={Institute of Industrial and Systems Engineers (IISE)}
+}
+```
+
+
 For additional help regarding the installation of the library, feel free to drop your concerns in "Issues" section of the GitHub repository. In addition, the [OpenSCAD User Manual page on libraries](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries) can help. 
